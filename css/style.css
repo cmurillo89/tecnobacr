@@ -347,7 +347,7 @@ ul.conat_info li a:hover {
 }
 
 .text-bg h1 {
-     color: #0f98f8;
+     color: #18d821;
      font-size: 60px;
      line-height: 70px;
      padding-bottom: 45px;
@@ -461,7 +461,7 @@ ul.conat_info li a:hover {
 
 .titlepage h2 {
      font-size: 50px;
-     color: #0f98f8;
+     color: #18d821;
      line-height: 45px;
      font-weight: bold;
      padding: 0;
@@ -580,11 +580,11 @@ ul.conat_info li a:hover {
 }
 
 .blu_colo i {
-     background-color: #0f98f8
+     background-color: #18d821
 }
 
 .yell_colo i {
-     background-color: #fed806
+     background-color: #18d821
 }
 
 .yelldark_colo {
@@ -592,7 +592,7 @@ ul.conat_info li a:hover {
 }
 
 .yelldark_colo i {
-     background-color: #fe7506
+     background-color: #18d821
 }
 
 .service .read_more {
@@ -683,7 +683,7 @@ ul.conat_info li a:hover {
 #veh .carousel-control-next:hover,
 #veh .carousel-control-prev:focus,
 #veh .carousel-control-next:focus {
-     background: #0f98f8;
+     background: #18d821;
      color: #fff;
 }
 
@@ -905,7 +905,7 @@ ul.conat_info li a:hover {
 }
 
 .send_btn {
-     background: #0f98f8;
+     background: #18d821;
      font-weight: 500;
      font-size: 18px;
      width: 198px;
@@ -1022,7 +1022,7 @@ ul.location_icon li a:hover {
 .sub_btn {
      font-size: 16px;
      transition: ease-in all 0.5s;
-     background-color: #0f98f8;
+     background-color: #18d821;
      color: #fff;
      padding: 10px 0px;
      max-width: 105px;
@@ -1039,7 +1039,7 @@ ul.location_icon li a:hover {
 }
 
 .copyright {
-     background-color: #0f98f8;
+     background-color: #219427;
      margin-top: 70px;
      padding: 20px 0;
 }
