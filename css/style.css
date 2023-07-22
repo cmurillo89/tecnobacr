@@ -372,7 +372,7 @@ ul.conat_info li a:hover {
 }
 
 .ban_track figure {
-     margin: 0;
+     margin: -15%;
 }
 
 .transfot {
@@ -552,7 +552,7 @@ ul.conat_info li a:hover {
 .service_box {
      text-align: center;
      width: 16.3%;
-     margin-top: 30px !important;
+     margin-top: 20px !important;
 }
 
 .service_box i {
@@ -564,7 +564,7 @@ ul.conat_info li a:hover {
 
 .service_box i img {
      text-align: center;
-     padding-top: 33%;
+     padding-top: 0%;
 }
 
 .service_box h4 {
